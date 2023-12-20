@@ -105,6 +105,7 @@ Execute the program
         <td>COMMUNICATIVE ENGLISH (ENG)</td>
     </tr>
     <tr>
+
         <td align="center">6.</td>
         <td align="center">19EY701</td>
         <td>Soft Skills (SS)</td>
@@ -115,4 +116,4 @@ Execute the program
 
 ```
 # OUPUT
-![Alt text](table.png)
+![table](https://github.com/Gowtham-jk/timetable/assets/149857834/7bbd65c6-9e70-424e-8104-a0ad1268ade2)
